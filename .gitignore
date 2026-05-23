@@ -1,0 +1,17 @@
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
+
+# Dependencies/build artifacts
+node_modules/
+dist/
+build/
+.cache/
+
+# Environment and credentials
+.env
+.env.*
+*.pem
+*.key
+secrets/
